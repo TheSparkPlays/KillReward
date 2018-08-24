@@ -1,0 +1,74 @@
+############################################################
+#														   
+#						  MESSAGES					       
+#														   
+############################################################
+
+prefix: '&8[&bKillReward&8] &7'
+mobkill: '&7You received &6%s&7, you now have &6%s&7.'
+killrewardsbasic: '&7Please use &b/kr help&7 for help.'
+pluginreload: '&7Plugin Reloaded!'
+nopermission: '&7You do not have permission.'
+disableworld: '&6%s&7 is now disabled.'
+enableworld: '&6%s&7 is now enabled.'
+worldnotfound: '&6%s&7 could not be found.'
+
+############################################################
+#														   
+#					   REWARD AMOUNT					   
+#														   
+############################################################
+
+skeleton: 10
+creeper: 15
+spider: 13
+zombie: 10
+zombie_villager: 12
+slime: 15
+ghast: 20
+pig_zombie: 12
+enderman: 25
+cave_spider: 17
+silverfish: 15
+blaze: 17
+magma_cube: 23
+bat: 5
+witch: 17
+pig: 5
+sheep: 5
+mushroom_cow: 7
+cow: 5
+chicken: 3
+squid: 7
+wolf: 10
+ocelot: 10
+villager: 10
+enderdragon: 15000
+wither: 500
+guardian: 15
+elder_guardian: 25
+drowned: 13
+endermite: 3
+husk: 15
+phantom: 25
+shulker: 18
+stray: 14
+vex: 8
+vindicator: 13
+wither_skeleton: 18
+iron_golem: 17
+parrot: 3
+llama: 5
+cod: 2
+salmon: 2
+tropical_fish: 2
+dolphin: 5
+puffer_fish: 7
+skeleton_horse: 8
+turtle: 4
+rabbit: 3
+polar_bear: 12
+mule: 7
+horse: 6
+donkey: 7
+snowman: 10

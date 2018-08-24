@@ -1,0 +1,26 @@
+name: KillReward
+main: me.thesparkplays.killreward.main
+version: 1.0
+author: TheSparkPlays or GewoonRick
+description: >
+             Kill a mob to get money. (Vault required)
+commands:
+ kr:
+  description: Basic commnand of KillReward.
+ kr help:
+  description: Help page of KillReward.
+ kr reload:
+  description: Reload the KillReward config.
+permissions:
+ killreward.reload:
+  description: Give permission to reload config.
+  default: op
+ killreward.disableworld:
+  description: Give permission to disable KillReward in certain worlds.
+  default: op
+ killreward.enableworld:
+  description: Give permission to enable KillReward in certain worlds.
+  default: op
+ killreward.help:
+  description: Give permission to the KillReward help command.
+  default: op
